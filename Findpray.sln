@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Findpray", "Findpray.csproj", "{13B92E53-0E0F-48B8-BA7F-C586DEB0EFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B92E53-0E0F-48B8-BA7F-C586DEB0EFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B92E53-0E0F-48B8-BA7F-C586DEB0EFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B92E53-0E0F-48B8-BA7F-C586DEB0EFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B92E53-0E0F-48B8-BA7F-C586DEB0EFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6773C211-8111-48B9-966F-54C915EDEF66}
+	EndGlobalSection
+EndGlobal
