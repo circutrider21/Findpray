@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Findpray</id>
+    <version>1.0.1</version>
+    <authors>Uiop Pilon</authors>
+    <owners>Peeled Fruit Studios</owners>
+    <description>Findpray</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright ©  2020</copyright>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.*" target="lib\net45\" exclude="*.pdb;*.vshost.*"/>
+  </files>
+</package>
